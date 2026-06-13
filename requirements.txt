@@ -1,0 +1,11 @@
+# Core dependencies
+# (No external libraries needed for this project!)
+
+# For testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# For code quality
+black==23.7.0
+flake8==6.0.0
+mypy==1.4.1
