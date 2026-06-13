@@ -6,7 +6,8 @@ import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
 from social_media.services.platform_service import SocialMediaPlatform
-
+from fastapi import FastAPI
+app=FastAPI()
 
 def print_header(text):
     """Print a formatted header."""
