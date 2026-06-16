@@ -72,7 +72,7 @@ def read_root():
         "message": "Social Media Platform API",
         "version": "1.0.0",
         "docs": "/docs",
-        "github": "https://github.com/YOUR_USERNAME/social-media-platform"
+        "github": "https://github.com/CodeMaster-99-hash/social-media-platform"
     }
 
 @app.get("/health")
